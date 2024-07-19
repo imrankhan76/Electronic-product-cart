@@ -1,0 +1,97 @@
+*{
+    color:rgb(42, 68, 68);
+    
+}
+body{
+    background-color: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 15%, rgba(224,46,46,1) 50%, rgba(225,153,51,1) 89%);;
+    
+        
+    
+    
+    
+}.main{
+    display: flex;
+    justify-content: center;
+
+    
+    
+    
+}
+.inline-div{
+height: 450px;
+width: 340px;
+background-color: rgba(196, 188, 178, 0.678);
+
+margin-right: 90px;
+margin-top: 80px;
+border-radius: 40px;
+margin-left: 90px;
+box-shadow: 0 14px 28px rgba(0,0,0,0.25),0 18px 10px rgba(0,0,0,0.22);
+
+
+}
+.wireless{
+   text-align: center;
+
+}
+.shipped{
+    margin-left:10px;
+    color:rgba(61, 58, 58, 0.756)
+}
+.price{
+    margin-left:10px;
+
+}
+
+
+    
+
+.first{
+    width:max-content;
+    height: max-content;
+    justify-content: center;
+
+    
+    
+    background:rgb(161, 150, 193);
+border:0px solid rgb(26, 115, 142);
+padding: 3px;
+border-radius: 10px;
+
+
+margin-top: 6px;
+margin-left: 15px;
+   
+}
+.image{
+    text-align: center;
+}
+.cart{
+    
+    display: flex;
+    
+
+
+}
+
+
+button{
+    border-radius: 10px;
+    padding:10px;
+    margin-left: 40px;
+    
+    
+}
+h1{
+    font-style:oblique ;
+    color:wheat;
+
+    text-align:center;
+    text-decoration:underline;
+    font-size: 40px;
+
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 14px 28px rgba(0,0,0,0.50),0 18px 10px rgba(0,0,0,0.22);
+    }
+    
